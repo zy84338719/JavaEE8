@@ -2,7 +2,7 @@ import com.google.common.util.concurrent.ThreadFactoryBuilder;
 
 import java.util.concurrent.*;
 
-public class Main {
+public class AlibabaThreadDemo {
         /**
          * 定义静态内部线程类
          */
