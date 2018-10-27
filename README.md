@@ -20,4 +20,11 @@
     </dependency>
     
 ```
-#### Spring boot 初探Demo
+#### Spring boot 初探
+```$xslt
+    完成spring boot邮件模块
+```
+#### 翻译
+```$xslt
+    完成取词解析，尚未完成展示模块
+```

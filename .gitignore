@@ -33,3 +33,4 @@ hs_err_pid*
 .idea/*
 */.mvn/
 */.mvn/*
+*/src/main/resources/application.properties

@@ -1,4 +1,4 @@
-package com.zhangyi.webdemo;
+package com.murphyyi.mail;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,10 +7,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class WebdemoApplicationTests {
+public class MailApplicationTests {
 
-    @Test
-    public void contextLoads() {
-    }
+	@Test
+	public void contextLoads() {
+	}
 
 }
